@@ -45,7 +45,7 @@ More projects 👉 [Explore here](https://github.com/vikas9616?tab=repositories)
 ---
 
 ⚡ **Fun Fact:** I love blending **technology with creativity**—whether in code or content 🎥
-## Hi there 👋
+
 
 <!--
 **vikas9616/vikas9616** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
