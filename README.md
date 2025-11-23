@@ -38,7 +38,8 @@ More projects 👉 [Explore here](https://github.com/vikas9616?tab=repositories)
 
 📈 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikas9616&show_icons=true&theme=tokyonight" alt="vikas9616 stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikas9616&layout=compact&theme=tokyonight&hide=cpp,c" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vikas9616&show_icons=true&theme=tokyonight" alt="vikas9616 stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikas9616&theme=tokyonight" alt="vikas9616 streak" />
 </p>
 
