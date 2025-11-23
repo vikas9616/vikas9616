@@ -10,7 +10,7 @@
 🚀 **About Me**  
 - 🎓 Completed **B.Tech in Computer Science** from **Rajkiya Engineering College, Kannauj**  
 - 💻 **Full-Stack Developer** specializing in **MERN Stack** (MongoDB, Express, React, Node.js)  
-- 🔭 Currently working on **AI-based applications**, and **Machine Learning integrations in web apps**   
+- 🔭 Currently working on **Java, SpringBoot**, **AI-based applications**, and **Machine Learning integrations in web apps**   
 - 🌱 Constantly learning **Next.js**, **Cloud (AWS/GCP)**, and contributing to **open-source projects**  
 - 📫 Reach me at **vikas09092002maurya@gmail.com**  
 
@@ -19,7 +19,7 @@
 🛠️ **Tech Stack**  
 - **Languages:** JavaScript | TypeScript | Python | C++  
 - **Frontend:** React (Vite) | Next.js | Tailwind CSS | Redux  
-- **Backend:** Node.js | Express | REST APIs | JWT Auth  
+- **Backend:** java | Spring Boot | Node.js | Express | REST APIs | JWT Auth  
 - **Database:** MongoDB | MySQL  
 - **Tools:** Git | VS Code | Postman | Figma  
 - **Others:** AI/ML | OpenAI API | Cloud Integration | Video Editing
